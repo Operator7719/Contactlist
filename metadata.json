@@ -1,0 +1,6 @@
+{
+  "name": "Contact List",
+  "description": "A beautiful contact manager with direct dial, email, and WhatsApp shortcuts, complete with local storage persistence and positive affirmations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
